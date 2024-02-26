@@ -22,14 +22,14 @@
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
-<key>url</key>
+<key>https://bsofapp.com/videostaricon.png</key>
 <string></string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.frontierdesign.videostar2</string>
+<string>com.tweakdoor.vsproo</string>
 <key>bundle-version</key>
 <string>8.3.2</string>
 <key>kind</key>
