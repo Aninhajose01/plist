@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://xipa.me/server1/ipa/Arabgtstore.lWA5TaRCLOFtS3tgNQB4.ipa</string>
+<string>https://xipa.me/server1/ipa/Mardevorzo.VQrriEnoISe8vaprI5ni.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -29,13 +29,13 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.tweakdoor.vsproo</string>
+<string>com.alexd.tiktok</string>
 <key>bundle-version</key>
 <string>8.3.2</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>TikTok LRD</string>
+<string>TikTok++</string>
 </dict> 
 </dict>
 </array>
