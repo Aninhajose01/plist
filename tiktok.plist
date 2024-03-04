@@ -16,13 +16,13 @@
 <dict>
 <key>kind</key>
 <string>display-image</string>
-<key>url</key>
+<key>https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png</key>
 <string></string>
 </dict>
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
-<key>https://bsofapp.com/videostaricon.png</key>
+<key>https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png</key>
 <string></string>
 </dict>
 </array>
@@ -35,7 +35,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>TikTok++</string>
+<string>TikTok LRD</string>
 </dict> 
 </dict>
 </array>
