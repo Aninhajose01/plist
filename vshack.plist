@@ -16,7 +16,7 @@
 <dict>
 <key>kind</key>
 <string>display-image</string>
-<key>url</key>
+<key>https://bsofapp.com/videostaricon.png</key>
 <string></string>
 </dict>
 <dict>
@@ -35,7 +35,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>Video Star Hack</string>
+<string>Video Star Old</string>
 </dict> 
 </dict>
 </array>
